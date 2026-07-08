@@ -11,7 +11,7 @@
 - 🔭 I’m currently a **Full-Stack Developer** diving deep into the world of **AI**.
 - 🌱 I’m constantly learning and implementing new architectures, AI models, and scalable backend solutions.
 - ⚡ In my free time, I love experimenting with new technologies.
-- 📫 Reach me at: [Your Email or LinkedIn]
+- 📫 Reach me at: [maahiyzafa@gmail.com]
 
 ---
 
